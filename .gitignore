@@ -1,0 +1,9 @@
+node_modules/
+venv/
+venv310/
+backend/venv310/
+__pycache__/
+*.pyc
+.env
+*.h5
+*.keras
