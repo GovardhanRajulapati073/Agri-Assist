@@ -1,6 +1,8 @@
 node_modules/
 venv/
+.venv/
 venv310/
+backend/.venv/
 backend/venv310/
 __pycache__/
 *.pyc
